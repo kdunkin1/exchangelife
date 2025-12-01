@@ -1,0 +1,247 @@
+{
+    "programId": "exchangelife",
+    "name": "Exchange Life",
+    "displayName": "Exchange Life with Christ",
+    "version": "0.2.0",
+    "description": "A guided journey into the exchanged life with Christ – discovering who you are in Jesus, how He lives in you, and how to walk in daily freedom.",
+    "modules": [
+      {
+        "slug": "module1_intro",
+        "title": "Module 1 – Introduction to the Exchanged Life",
+        "order": 1,
+        "estimatedMinutes": 20,
+        "summary": "An overview of the Exchanged Life: what it is, why it matters, and how Christ becomes our life.",
+        "goals": [
+          "Understand the basic idea of the exchanged life.",
+          "Begin to see your story in light of Christ living in you."
+        ],
+        "keyConcepts": [
+          "Christ in you",
+          "Identity in Christ",
+          "Grace vs. self-effort"
+        ],
+        "scriptureRefs": [
+          "Galatians 2:20",
+          "Colossians 1:27"
+        ],
+        "journalPrompts": [
+          "In your own words, what does it mean that \"Christ lives in me\"?",
+          "Where do you still feel like you are living the Christian life in your own strength?"
+        ],
+        "requiresLeader": false,
+        "arcTemplates": {
+          "admit": [
+            {
+              "title": "Admit the struggle",
+              "description": "Lord, I admit that I have been trying to live the Christian life in my own strength, and it is exhausting…"
+            }
+          ],
+          "renounce": [
+            {
+              "title": "Renounce self-effort",
+              "description": "Lord, I renounce the lie that it all depends on me. I renounce the habit of trusting my own effort instead of Your life in me…"
+            }
+          ],
+          "confess": [
+            {
+              "title": "Confess the truth",
+              "description": "Lord Jesus, I confess that You live in me, and that my true life is hidden with Christ in God. I confess that You are my life."
+            }
+          ]
+        }
+      },
+      {
+        "slug": "module2_new_you",
+        "title": "Module 2 – The New You in Christ",
+        "order": 2,
+        "estimatedMinutes": 25,
+        "summary": "Explore what actually changed when you trusted Christ – your identity, your heart, and your standing before God.",
+        "goals": [
+          "Understand the difference between your old self and your new self in Christ.",
+          "Recognize that you are fully accepted, secure, and significant in Jesus.",
+          "Begin to reject old labels and embrace your true identity."
+        ],
+        "keyConcepts": [
+          "New creation",
+          "Co-crucified and co-raised",
+          "Accepted, secure, significant"
+        ],
+        "scriptureRefs": [
+          "2 Corinthians 5:17",
+          "Romans 6:6–11",
+          "Ephesians 1:3–6"
+        ],
+        "journalPrompts": [
+          "What old labels or identities still cling to you (e.g., failure, not enough, too much)?",
+          "Write a short prayer where you thank Jesus for specific truths about who you now are in Him.",
+          "Which verse from this module speaks most deeply to you? Why?"
+        ],
+        "requiresLeader": false,
+        "arcTemplates": {
+          "admit": [
+            {
+              "title": "Admit false identities",
+              "description": "Lord, I admit that I have believed lies about who I am – based on my past, my failures, and others’ opinions…"
+            }
+          ],
+          "renounce": [
+            {
+              "title": "Renounce old labels",
+              "description": "In Jesus’ name, I renounce the labels and identities that do not come from You – every name and story that contradicts Your Word…"
+            }
+          ],
+          "confess": [
+            {
+              "title": "Confess who you are in Christ",
+              "description": "Lord Jesus, I confess that I am a new creation in You – forgiven, loved, accepted, and made righteous by Your finished work."
+            }
+          ]
+        }
+      },
+      {
+        "slug": "module3_flesh_spirit",
+        "title": "Module 3 – Flesh vs. Spirit",
+        "order": 3,
+        "estimatedMinutes": 30,
+        "summary": "See the ongoing conflict between the flesh and the Spirit, and how to practically walk by the Spirit instead of striving in the flesh.",
+        "goals": [
+          "Define what the Bible means by \"flesh\" and \"Spirit.\"",
+          "Identify flesh patterns in your own life.",
+          "Learn how to depend on the Spirit moment by moment."
+        ],
+        "keyConcepts": [
+          "The flesh as self-sufficiency",
+          "The Spirit as the life of Christ in you",
+          "Walking vs. striving"
+        ],
+        "scriptureRefs": [
+          "Galatians 5:16–25",
+          "Romans 8:1–6"
+        ],
+        "journalPrompts": [
+          "Where do you most often feel yourself “trying harder” instead of trusting the Spirit?",
+          "Describe a recent situation where you saw the fruit of the Spirit show up in you. What happened?",
+          "Finish this sentence: \"Lord, I want to learn to walk by the Spirit especially in…\""
+        ],
+        "requiresLeader": false,
+        "arcTemplates": {
+          "admit": [
+            {
+              "title": "Admit flesh patterns",
+              "description": "Lord, I admit that I fall back into flesh patterns – trying to control, fix, please, or protect myself without You…"
+            }
+          ],
+          "renounce": [
+            {
+              "title": "Renounce self-reliance",
+              "description": "In Jesus’ name, I renounce my reliance on my own wisdom, strength, and strategies. I renounce the lie that the flesh can produce life."
+            }
+          ],
+          "confess": [
+            {
+              "title": "Confess dependence on the Spirit",
+              "description": "Holy Spirit, I confess that I need You. I choose to depend on You as my wisdom, power, and life in this situation."
+            }
+          ]
+        }
+      },
+      {
+        "slug": "module4_lies_wounds_strongholds",
+        "title": "Module 4 – Lies, Wounds, and Strongholds",
+        "order": 4,
+        "estimatedMinutes": 35,
+        "summary": "Invite Jesus into the deeper places of hurt, lies, and strongholds that have shaped how you see God, yourself, and others.",
+        "goals": [
+          "Identify key wounds and lies that have shaped your story.",
+          "Recognize how the enemy uses lies to build strongholds.",
+          "Begin to invite Jesus into specific memories and beliefs."
+        ],
+        "keyConcepts": [
+          "Wounds and agreements",
+          "Lies vs. truth",
+          "Strongholds and freedom in Christ"
+        ],
+        "scriptureRefs": [
+          "John 8:31–32",
+          "2 Corinthians 10:3–5",
+          "Psalm 34:18"
+        ],
+        "journalPrompts": [
+          "Ask the Lord: \"Jesus, where did I first start believing this lie about myself or about You?\" Write what comes to mind.",
+          "Write down one wound or memory that still carries pain. Invite Jesus into that memory in prayer.",
+          "What truth from Scripture do you sense the Lord speaking over that wound?"
+        ],
+        "requiresLeader": true,
+        "arcTemplates": {
+          "admit": [
+            {
+              "title": "Admit the hurt and lies",
+              "description": "Lord, I admit that I have been deeply hurt here, and I have believed lies about You, myself, and others because of it…"
+            }
+          ],
+          "renounce": [
+            {
+              "title": "Renounce agreements with lies",
+              "description": "In Jesus’ name, I renounce every agreement I have made with the enemy’s lies – especially the lie that… (name it)."
+            }
+          ],
+          "confess": [
+            {
+              "title": "Confess the truth over the wound",
+              "description": "Lord Jesus, I confess that Your truth is greater than this pain. I confess that You are near to the brokenhearted and that Your cross is enough for this wound."
+            }
+          ]
+        }
+      },
+      {
+        "slug": "module5_walking_in_freedom",
+        "title": "Module 5 – Walking in Freedom Daily",
+        "order": 5,
+        "estimatedMinutes": 30,
+        "summary": "Learn how to live out the exchanged life in everyday moments – abiding in Christ, responding to temptation, and walking in ongoing surrender and trust.",
+        "goals": [
+          "Connect the exchanged life to daily decisions and habits.",
+          "Learn simple ways to practice abiding in Christ.",
+          "Form a picture of what long-term freedom can look like."
+        ],
+        "keyConcepts": [
+          "Abiding in Christ",
+          "Moment-by-moment surrender",
+          "Ongoing transformation"
+        ],
+        "scriptureRefs": [
+          "John 15:1–5",
+          "Romans 12:1–2",
+          "Philippians 1:6"
+        ],
+        "journalPrompts": [
+          "What does it practically look like for you to \"abide\" in Christ on a normal day?",
+          "Where are you most afraid to fully trust Jesus right now?",
+          "Write a prayer of surrender for the next 30 days, entrusting specific areas of your life to Him."
+        ],
+        "requiresLeader": false,
+        "arcTemplates": {
+          "admit": [
+            {
+              "title": "Admit areas of ongoing struggle",
+              "description": "Lord, I admit that I still struggle to walk in freedom consistently in these areas…"
+            }
+          ],
+          "renounce": [
+            {
+              "title": "Renounce hopelessness and passivity",
+              "description": "In Jesus’ name, I renounce the lie that I will never change, and the lie that I am stuck. I renounce passivity and despair."
+            }
+          ],
+          "confess": [
+            {
+              "title": "Confess hope and trust in Christ",
+              "description": "Lord Jesus, I confess that You are my life, my hope, and my freedom. I confess that You are able to complete the good work You began in me."
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
+  
